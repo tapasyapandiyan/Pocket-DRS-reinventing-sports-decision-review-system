@@ -22,3 +22,6 @@ Calculated Intersection : Target Plane X=600 | Predicted Height Y=440.00px
 System Memory Load      : Minimal (< 5MB)
 -----------------------------------------------------------------
 DECISION STATE          : BOUNDARY INTERSECTION CONFIRMED [OUT]
+
+**[Click Here to Open the Live Interactive Web Application](https://reinventing-sports-decision-review-system-938ckeve6.streamlit.app/)**
+
