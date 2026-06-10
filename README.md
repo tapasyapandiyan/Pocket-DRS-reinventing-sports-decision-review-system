@@ -1,4 +1,4 @@
-# Edge-DRS: Low-Compute Kinematic Trajectory Prediction
+Edge-DRS: Low-Compute Kinematic Trajectory Prediction
 
 An open-source computational framework engineered to democratize professional-grade sports ball-tracking technology. Unlike traditional commercial systems (e.g., Hawk-Eye) that rely on multi-camera stereoscopic setups and centralized server clusters, this project explores the feasibility of executing predictive kinematic tracking on low-compute, single-sensor edge devices.
 
